@@ -1,10 +1,10 @@
 <div align="center">
 <h1>👁️ OpenEyes 👁️<h1>
 
-![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/OpenEyes)
-![GitHub forks](https://img.shields.io/github/forks/YOUR_USERNAME/OpenEyes)
-![GitHub size](https://img.shields.io/github/languages/code-size/YOUR_USERNAME/OpenEyes)
-![GitHub lastcommit](https://img.shields.io/github/last-commit/YOUR_USERNAME/OpenEyes)
+![GitHub stars](https://img.shields.io/github/stars/skibidibladee2025/reconeyes)
+![GitHub forks](https://img.shields.io/github/forks/skibidibladee2025/reconeyes)
+![GitHub size](https://img.shields.io/github/languages/code-size/skibidibladee2025/reconeyes)
+![GitHub lastcommit](https://img.shields.io/github/last-commit/skibidibladee2025/reconeyes)
 
 <a href="https://twitter.com/intent/follow?screen_name=YOUR_TWITTER">
 
@@ -19,8 +19,8 @@ Open IP Cameras, with default credentials - publicly accessible, scrapped from h
 ### Option 1: Netlify Static Site (Recommended - No Server Needed)
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/OpenEyes.git
-   cd OpenEyes
+   git clone https://github.com/skibidibladee2025/reconeyes.git
+   cd reconeyes
    ```
 
 2. **Deploy to Netlify:**
@@ -36,8 +36,8 @@ Open IP Cameras, with default credentials - publicly accessible, scrapped from h
 ### Option 2: Local Flask App
 1. **Clone and setup:**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/OpenEyes.git
-   cd OpenEyes
+   git clone https://github.com/skibidibladee2025/reconeyes.git
+   cd reconeyes
    python -m venv venv
    source venv/bin/activate  # On Windows: venv\Scripts\activate
    pip install -r requirements.txt

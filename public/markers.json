@@ -1,0 +1,28 @@
+[
+  {
+    "id": "sample1",
+    "country": "US",
+    "country_code": "US",
+    "region": "California",
+    "city": "Los Angeles",
+    "zip": "90210",
+    "timezone": "PST",
+    "manufacturer": "SampleCam",
+    "lat": 34.0522,
+    "lng": -118.2437,
+    "stream": "https://example.com/stream1"
+  },
+  {
+    "id": "sample2",
+    "country": "UK",
+    "country_code": "GB",
+    "region": "England",
+    "city": "London",
+    "zip": "SW1A 1AA",
+    "timezone": "GMT",
+    "manufacturer": "AnotherCam",
+    "lat": 51.5074,
+    "lng": -0.1278,
+    "stream": "https://example.com/stream2"
+  }
+]
